@@ -108,6 +108,6 @@ I'm a Full-Stack Developer shaping my own vision of the tech world, one step at 
 </p>
 <p align="left">
   <a href="https://github.com/OumaMichael/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=OumaMichael&exclude=issues" alt="RichardMiruka" /> 
+    <img src="https://github-profile-trophy.vercel.app/?username=OumaMichael&exclude=issues" alt="OumaMichael" /> 
   </a>
 
