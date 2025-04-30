@@ -111,3 +111,6 @@ I'm a Full-Stack Developer shaping my own vision of the tech world, one step at 
     <img src="https://github-profile-trophy.vercel.app/?username=OumaMichael&exclude=issues" alt="OumaMichael" /> 
   </a>
 
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=OumaMichael&count_private=true&include_all_commits=true" />
+</div>
