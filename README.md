@@ -1,3 +1,10 @@
+<img
+  align="center"
+  alt="Coding"
+  width="1000"
+  height="300"
+  src="./softwaredev.png"
+/>
 # MICHAEL OUMA
 
 **Full-Stack Developer**
