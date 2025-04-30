@@ -99,7 +99,7 @@ I'm a Full-Stack Developer shaping my own vision of the tech world, one step at 
     />
   </a>
 </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0umaMichael&label=Profile%20views&color=0e75b6&style=flat" alt="0umaMichael" /> </p>
 <p>
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs?username=OumaMichael&show_icons=true&locale=en&layout=compact"
