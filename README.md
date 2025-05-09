@@ -101,16 +101,12 @@ I'm a Full-Stack Developer shaping my own vision of the tech world, one step at 
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0umaMichael&label=Profile%20views&color=0e75b6&style=flat" alt="0umaMichael" /> </p>
 <p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=OumaMichael&show_icons=true&locale=en&layout=compact"
-    alt="OumaMichael"
-  />
-</p>
-<p align="left">
-  <a href="https://github.com/OumaMichael/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=OumaMichael&exclude=issues" alt="OumaMichael" /> 
-  </a>
-
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=OumaMichael&count_private=true&include_all_commits=true" />
+  <div align="center">
+  <img align="center" src="https://github.com/OumaMichael/OumaMichael/blob/output/github-contribution-grid-snake.svg" alt="github contribution grid snake  animation" style="filter: brightness(0) invert(1);>
+  <br>
+  <br>
+  <img width=430 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=OumaMichael&count_private=true&theme=default&border_radius=10" alt="streak stats" />
+  <img width=405 src="https://github-readme-stats.vercel.app/api?username=oumamichael&theme=default&show_icons=true&locale=en&border_radius=10" alt="readme stats" />
+  <br>
+  <img width=355 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OumaMichael&theme=default&show_icons=true&locale=en&layout=compact&border_radius=10" alt="top langs">
 </div>
