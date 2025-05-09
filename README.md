@@ -102,7 +102,7 @@ I'm a Full-Stack Developer shaping my own vision of the tech world, one step at 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0umaMichael&label=Profile%20views&color=0e75b6&style=flat" alt="0umaMichael" /> </p>
 <p>
   <div align="center">
-  <img align="center" src="https://github.com/OumaMichael/OumaMichael/blob/output/github-contribution-grid-snake.svg" alt="github contribution grid snake  animation" style="filter: brightness(0) invert(1);>
+  <img align="center" src="https://github.com/OumaMichael/OumaMichael/blob/output/github-contribution-grid-snake.svg" alt="github contribution grid snake  animation" style="filter: brightness(0) invert(1);">
   <br>
   <br>
   <img width=430 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=OumaMichael&count_private=true&theme=default&border_radius=10" alt="streak stats" />
