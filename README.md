@@ -98,9 +98,19 @@ I'm a Full-Stack Developer shaping my own vision of the tech world, one step at 
       alt="linkedin"
     />
   </a>
-</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0umaMichael&label=Profile%20views&color=0e75b6&style=flat" alt="0umaMichael" /> </p>
 <p>
+
+[![Michael Ouma's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=OumaMichael&bg_color=ffffff&color=000000&line=94ea90&point=06b11a&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</p>
+<h3 align="center">
+ 
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OumaMichael&theme=github)
+ 
+</h3>
+
+
   <div align="center">
   <img align="center" src="https://github.com/OumaMichael/OumaMichael/blob/output/github-contribution-grid-snake.svg" alt="github contribution grid snake  animation" style="filter: brightness(0) invert(1);">
   <br>
