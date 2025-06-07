@@ -87,6 +87,7 @@ I'm a Full-Stack Developer shaping my own vision of the tech world, one step at 
 
 ## ⚡️ Where to find me
 
+
 <p align="left">
   <a href="https://www.linkedin.com/in/michael-ouma-03b3522a1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
@@ -94,7 +95,11 @@ I'm a Full-Stack Developer shaping my own vision of the tech world, one step at 
   <a href="https://leetcode.com/u/oumamichael/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode"/>
   </a>
+  <a href="https://www.codewars.com/users/OumaMichael" target="_blank">
+    <img src="https://img.shields.io/badge/Codewars-red?logo=codewars&logoColor=white&style=for-the-badge" alt="Codewars"/>
+  </a>
 </p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0umaMichael&label=Profile%20views&color=0e75b6&style=flat" alt="0umaMichael" /> </p>
