@@ -122,5 +122,5 @@ I'm a Full-Stack Developer shaping my own vision of the tech world, one step at 
   <img width=430 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=OumaMichael&count_private=true&theme=default&border_radius=10" alt="streak stats" />
   <img width=405 src="https://github-readme-stats.vercel.app/api?username=oumamichael&theme=default&show_icons=true&locale=en&border_radius=10" alt="readme stats" />
   <br>
-  <img width=355 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OumaMichael&theme=default&show_icons=true&locale=en&layout=compact&border_radius=10" alt="top langs">
+  <img width=355 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OumaMichael&langs_count=10&title_color=000000&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20Languages" alt="top langs">
 </div>
