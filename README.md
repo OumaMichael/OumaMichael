@@ -48,5 +48,7 @@ I'm a Full-Stack Developer shaping my own vision of the tech world, one step at 
   <br>
   <img width=430 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=OumaMichael&count_private=true&theme=default&border_radius=10" alt="streak stats" />
   <img width=405 src="https://github-readme-stats.vercel.app/api?username=oumamichael&theme=default&show_icons=true&locale=en&border_radius=10" alt="readme stats" />
+  <img width=405 src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=OumaMichael&theme=default" />
+  <img width=405 src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=OumaMichael&theme=default" />
   <br>
   </div>
