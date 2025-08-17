@@ -18,18 +18,21 @@ I'm a Full-Stack Developer shaping my own vision of the tech world, one step at 
 
 # Where to find me
 
-
 <p align="left">
   <a href="https://www.linkedin.com/in/michael-ouma-03b3522a1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://leetcode.com/u/oumamichael/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&logoColor=white&style=for-the-badge" alt="LeetCode"/>
+    <img src="https://cdn-1.webcatalog.io/catalog/leetcode/leetcode-icon-filled-256.webp?v=1714774949349" alt="LeetCode" width="40" height="40"/>
   </a>
   <a href="https://www.codewars.com/users/OumaMichael" target="_blank">
-    <img src="https://img.shields.io/badge/Codewars-red?logo=codewars&logoColor=white&style=for-the-badge" alt="Codewars"/>
+    <img src="https://img.icons8.com/?size=48&id=gDJDJJ1MCGmG&format=png" alt="Codewars" width="40" height="40"/>
+  </a>
+  <a href="https://stackoverflow.com/users/29866835/michael-ouma" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
